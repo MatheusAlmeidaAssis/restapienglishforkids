@@ -1,0 +1,14 @@
+{
+    "categories":[
+        {
+            "id": 1,
+            "name": "Families",
+            "image": "https://ec.europa.eu/social/BlobServlet?mode=displayPicture&photoId=10878"
+        },
+        {
+            "id": 2,
+            "name": "Numbers",
+            "image": "https://blog.influx.com.br/storage/app/media/uploaded-files/00-2017/04-2017/040517-numeros_cardinais/IMG/DESTACADAnumbers.jpg"
+        }
+    ]
+}
